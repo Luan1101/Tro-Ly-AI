@@ -1,0 +1,690 @@
+[
+  {
+    "question":"Sinh viên Sử dụng Internet\/mạng xã hội để đăng tải những nội dung sai sự thật về Nhà trường, thầy cô giáo mà không có căn cứ, minh chứng rõ ràng; hoặc dù có minh chứng nhưng sử dụng từ ngữ vô lễ, thiếu chuẩn mực đối với Nhà trường và thầy cô. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Thi, kiểm tra hộ hoặc nhờ người khác thi, kiểm tra hộ; làm hộ, nhờ làm hoặc sao chép tiểu luận, đồ án, khóa luận tốt nghiệp. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Thi, kiểm tra hộ hoặc nhờ người khác thi, kiểm tra hộ; làm hộ, nhờ làm hoặc sao chép tiểu luận, đồ án, khóa luận tốt nghiệp. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Điểm danh hộ hoặc nhờ người khác điểm danh. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Điểm danh hộ hoặc nhờ người khác điểm danh. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Điểm danh hộ hoặc nhờ người khác điểm danh. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Điểm danh hộ hoặc nhờ người khác điểm danh. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tổ chức học, thi, kiểm tra hộ; tổ chức làm hộ tiểu luận, đồ án, khóa luận tốt nghiệp. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Đình chỉ thi lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Đình chỉ thi lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Đình chỉ thi lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Đình chỉ thi lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Cảnh cáo lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Cảnh cáo lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Cảnh cáo lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Cảnh cáo lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Cảnh cáo lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Nhắc nhở lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Nhắc nhở lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Nhắc nhở lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Nhắc nhở lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Nhắc nhở lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Nhắc nhở lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Nghịch phá và vi phạm nguyên tắc an toàn cháy nổ lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Nghịch phá và vi phạm nguyên tắc an toàn cháy nổ lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Uống rượu, bia trong khuôn viên Trường; đến Trường trong tình trạng say rượu, bia lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Uống rượu, bia trong khuôn viên Trường; đến Trường trong tình trạng say rượu, bia lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Uống rượu, bia trong khuôn viên Trường; đến Trường trong tình trạng say rượu, bia lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Uống rượu, bia trong khuôn viên Trường; đến Trường trong tình trạng say rượu, bia lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Hút thuốc lá trong khuôn viên Trường lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Hút thuốc lá trong khuôn viên Trường lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Hút thuốc lá trong khuôn viên Trường lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Hút thuốc lá trong khuôn viên Trường lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Ăn uống trong phòng học, thư viện lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Ăn uống trong phòng học, thư viện lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Ăn uống trong phòng học, thư viện lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Ăn uống trong phòng học, thư viện lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Ngủ trong giờ học, trong thư viện lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Ngủ trong giờ học, trong thư viện lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Ngủ trong giờ học, trong thư viện lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Ngủ trong giờ học, trong thư viện lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Không đeo thẻ sinh viên hoặc thẻ tạm lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Không đeo thẻ sinh viên hoặc thẻ tạm lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Không đeo thẻ sinh viên hoặc thẻ tạm lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Không đeo thẻ sinh viên hoặc thẻ tạm lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Giả chữ ký của người khác (sinh viên, giảng viên) lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Giả chữ ký của người khác (sinh viên, giảng viên) lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Giả chữ ký của người khác (sinh viên, giảng viên) lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Giả chữ ký của người khác (sinh viên, giảng viên) lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Giả mạo đơn thuốc để được hưởng các quyền lợi lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Giả mạo đơn thuốc để được hưởng các quyền lợi lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Giả mạo đơn thuốc để được hưởng các quyền lợi lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Giả mạo đơn thuốc để được hưởng các quyền lợi lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tự ý tạm dừng số điện thoại liên lạc của người khác lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Tự ý tạm dừng số điện thoại liên lạc của người khác lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Tự ý tạm dừng số điện thoại liên lạc của người khác lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Tự ý tạm dừng số điện thoại liên lạc của người khác lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tự ý sử dụng thông tin cá nhân của người khác khi chưa được sự đồng ý lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Tự ý sử dụng thông tin cá nhân của người khác khi chưa được sự đồng ý lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Tự ý sử dụng thông tin cá nhân của người khác khi chưa được sự đồng ý lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Tự ý sử dụng thông tin cá nhân của người khác khi chưa được sự đồng ý lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Đi trễ nhưng vẫn vào lớp và điểm danh chào cờ lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Đi trễ nhưng vẫn vào lớp và điểm danh chào cờ lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Đi trễ nhưng vẫn vào lớp và điểm danh chào cờ lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Đi trễ nhưng vẫn vào lớp và điểm danh chào cờ lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tự ý vào lớp khi giờ học đã bắt đầu lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Tự ý vào lớp khi giờ học đã bắt đầu lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Tự ý vào lớp khi giờ học đã bắt đầu lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Tự ý vào lớp khi giờ học đã bắt đầu lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Nhặt được của rơi nhưng không liên hệ với các bộ phận có trách nhiệm để trả lại người bị mất lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Nhặt được của rơi nhưng không liên hệ với các bộ phận có trách nhiệm để trả lại người bị mất lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Nhặt được của rơi nhưng không liên hệ với các bộ phận có trách nhiệm để trả lại người bị mất lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Nhặt được của rơi nhưng không liên hệ với các bộ phận có trách nhiệm để trả lại người bị mất lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tự ý bỏ học, ra khỏi lớp mà không xin phép giảng viên lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Tự ý bỏ học, ra khỏi lớp mà không xin phép giảng viên lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Tự ý bỏ học, ra khỏi lớp mà không xin phép giảng viên lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Tự ý bỏ học, ra khỏi lớp mà không xin phép giảng viên lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Gửi khiếu nại vượt cấp lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Gửi khiếu nại vượt cấp lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Gửi khiếu nại vượt cấp lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Gửi khiếu nại vượt cấp lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Viết\/vẽ những nội dung không liên quan trong bài thi lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Viết\/vẽ những nội dung không liên quan trong bài thi lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Viết\/vẽ những nội dung không liên quan trong bài thi lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Viết\/vẽ những nội dung không liên quan trong bài thi lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Đưa hình ảnh phản cảm lên mạng xã hội, làm ảnh hưởng đến uy tín và hình ảnh của Nhà trường lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Đưa hình ảnh phản cảm lên mạng xã hội, làm ảnh hưởng đến uy tín và hình ảnh của Nhà trường lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Đưa hình ảnh phản cảm lên mạng xã hội, làm ảnh hưởng đến uy tín và hình ảnh của Nhà trường lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Đưa hình ảnh phản cảm lên mạng xã hội, làm ảnh hưởng đến uy tín và hình ảnh của Nhà trường lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Làm mất vệ sinh trong khuôn viên Trường; bỏ rác không đúng nơi quy định. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Làm mất vệ sinh trong khuôn viên Trường; bỏ rác không đúng nơi quy định. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Làm mất vệ sinh trong khuôn viên Trường; bỏ rác không đúng nơi quy định. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Làm mất vệ sinh trong khuôn viên Trường; bỏ rác không đúng nơi quy định. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; gạch xóa và bôi bẩn các thông báo, thông tin của Nhà trường. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; gạch xóa và bôi bẩn các thông báo, thông tin của Nhà trường. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; gạch xóa và bôi bẩn các thông báo, thông tin của Nhà trường. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Ngồi, chạy nhảy trên bàn; đi trên ghế; leo trèo, nhảy qua cửa sổ; gạch xóa và bôi bẩn các thông báo, thông tin của Nhà trường. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Gây rối an ninh, làm mất trật tự trong khuôn viên Trường. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Gây rối an ninh, làm mất trật tự trong khuôn viên Trường. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Gây rối an ninh, làm mất trật tự trong khuôn viên Trường. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Gây rối an ninh, làm mất trật tự trong khuôn viên Trường. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Nhắc nhở"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Phê bình"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 7 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Không tham gia chào cờ theo phân công. Đăng ký hoạt động nhưng không tham gia mà không có lý do chính đáng. Không đăng ký môn học theo kế hoạch học tập đã được công bố lần 8 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Nhắc nhở"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Phê bình"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 7 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Mang giày, dép không có quai hậu. Không mặc áo khoác ngoài đồng phục, hoặc mặc không đúng quy định. Mặc trang phục không lịch sự, không gọn gàng, không phù hợp với môi trường giáo dục hoặc không thực hiện đúng quy định về mặc trang phục truyền thống lần 8 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Phê bình"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Mang đồ ăn, thức uống vào phòng học, thư viện. lần 7 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Nhắc nhở"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Phê bình"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 7 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Nói to, la ó trong khuôn viên Trường; tụ tập trước giảng đường, phòng học đang có người học. lần 8 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Phá hoại cây xanh; chọc phá, bắt chim chóc trong Trường; đá banh, đá cầu trong lớp học, hành lang, sân thượng, vườn hoa. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Phá hoại cây xanh; chọc phá, bắt chim chóc trong Trường; đá banh, đá cầu trong lớp học, hành lang, sân thượng, vườn hoa. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Phá hoại cây xanh; chọc phá, bắt chim chóc trong Trường; đá banh, đá cầu trong lớp học, hành lang, sân thượng, vườn hoa. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Phá hoại cây xanh; chọc phá, bắt chim chóc trong Trường; đá banh, đá cầu trong lớp học, hành lang, sân thượng, vườn hoa. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi... tại bất kỳ vị trí nào trong khuôn viên Trường khi chưa được sự cho phép bằng văn bản của các Phòng, Ban chức năng; hoặc buôn bán dưới mọi hình thức khi chưa có sự đồng ý của Nhà trường. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi... tại bất kỳ vị trí nào trong khuôn viên Trường khi chưa được sự cho phép bằng văn bản của các Phòng, Ban chức năng; hoặc buôn bán dưới mọi hình thức khi chưa có sự đồng ý của Nhà trường. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi... tại bất kỳ vị trí nào trong khuôn viên Trường khi chưa được sự cho phép bằng văn bản của các Phòng, Ban chức năng; hoặc buôn bán dưới mọi hình thức khi chưa có sự đồng ý của Nhà trường. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi... tại bất kỳ vị trí nào trong khuôn viên Trường khi chưa được sự cho phép bằng văn bản của các Phòng, Ban chức năng; hoặc buôn bán dưới mọi hình thức khi chưa có sự đồng ý của Nhà trường. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi... tại bất kỳ vị trí nào trong khuôn viên Trường khi chưa được sự cho phép bằng văn bản của các Phòng, Ban chức năng; hoặc buôn bán dưới mọi hình thức khi chưa có sự đồng ý của Nhà trường. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Treo áp phích, băng rôn, biểu ngữ, dán poster, phát tài liệu, tờ rơi... tại bất kỳ vị trí nào trong khuôn viên Trường khi chưa được sự cho phép bằng văn bản của các Phòng, Ban chức năng; hoặc buôn bán dưới mọi hình thức khi chưa có sự đồng ý của Nhà trường. lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Đánh bạc dưới mọi hình thức. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Đánh bạc dưới mọi hình thức. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Đánh bạc dưới mọi hình thức. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Đánh bạc dưới mọi hình thức. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Xem đánh bạc mà không báo với đơn vị chức năng. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Nghiêm khắc phê bình"
+  },
+  {
+    "question":"Sinh viên Xem đánh bạc mà không báo với đơn vị chức năng. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Xem đánh bạc mà không báo với đơn vị chức năng. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Xem đánh bạc mà không báo với đơn vị chức năng. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Xem đánh bạc mà không báo với đơn vị chức năng. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Xem đánh bạc mà không báo với đơn vị chức năng. lần 6 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy; tham gia các hoạt động mê tín dị đoan hoặc hoạt động tôn giáo trái phép. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy; tham gia các hoạt động mê tín dị đoan hoặc hoạt động tôn giáo trái phép. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy; tham gia các hoạt động mê tín dị đoan hoặc hoạt động tôn giáo trái phép. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy; tham gia các hoạt động mê tín dị đoan hoặc hoạt động tôn giáo trái phép. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Tàng trữ, lưu hành, truy cập, sử dụng sản phẩm văn hóa đồi trụy; tham gia các hoạt động mê tín dị đoan hoặc hoạt động tôn giáo trái phép. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Buôn bán, vận chuyển, tàng trữ, lôi kéo người khác sử dụng ma túy. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Chứa chấp, môi giới mại dâm. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Hoạt động mại dâm. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Hoạt động mại dâm. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Hoạt động mại dâm. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Hoạt động mại dâm. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Hoạt động mại dâm. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Chứa chấp, buôn bán vũ khí, chất nổ, chất dễ cháy và các mặt hàng cấm theo quy định của Nhà nước. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Kích động, lôi kéo người khác biểu tình, viết truyền đơn, treo\/dán áp phích trái pháp luật. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Kích động, lôi kéo người khác biểu tình, viết truyền đơn, treo\/dán áp phích trái pháp luật. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  },
+  {
+    "question":"Sinh viên Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật. lần 1 sẽ bị xử lý như thế nào?",
+    "answer":"Khiển trách"
+  },
+  {
+    "question":"Sinh viên Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật. lần 2 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 1"
+  },
+  {
+    "question":"Sinh viên Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật. lần 3 sẽ bị xử lý như thế nào?",
+    "answer":"Cảnh cáo lần 2"
+  },
+  {
+    "question":"Sinh viên Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật. lần 4 sẽ bị xử lý như thế nào?",
+    "answer":"Đình chỉ học tập có thời hạn"
+  },
+  {
+    "question":"Sinh viên Tham gia biểu tình, tụ tập đông người, khiếu kiện trái quy định của pháp luật. lần 5 sẽ bị xử lý như thế nào?",
+    "answer":"Buộc thôi học"
+  }
+]
